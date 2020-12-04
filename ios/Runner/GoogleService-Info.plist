@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>470379022454-p8k64es0kl0a5h98bpdk77o4pfdogncr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.470379022454-p8k64es0kl0a5h98bpdk77o4pfdogncr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBsSsq_KNM775TGVBGtKNb1zTlnlnMNNU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>470379022454</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dddNotes</string>
+	<key>PROJECT_ID</key>
+	<string>ddd-notes-dc403</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ddd-notes-dc403.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:470379022454:ios:f65ae28c5b436f77b9f757</string>
+	<key>DATABASE_URL</key>
+	<string>https://ddd-notes-dc403.firebaseio.com</string>
+</dict>
+</plist>
